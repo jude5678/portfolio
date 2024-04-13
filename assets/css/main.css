@@ -2463,7 +2463,11 @@ input, select, textarea {
 		}
 
 			ul.actions.special li:first-child {
-				padding-left: 3em;
+				padding-left: 0;
+			}
+
+			ul.actions.special li {
+				padding-left: 5em;
 			}
 
 		ul.actions.stacked {
