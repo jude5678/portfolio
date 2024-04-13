@@ -2464,6 +2464,7 @@ input, select, textarea {
 
 			ul.actions.special li:first-child {
 				padding-left: 0;
+				margin-left: 1em;
 			}
 
 			ul.actions.special li {
