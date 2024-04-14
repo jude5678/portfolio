@@ -2467,9 +2467,7 @@ input, select, textarea {
 				margin-left: 3em;
 			}
 
-			ul.actions.special li {
-				padding-left: 5em;
-			}
+		
 
 		ul.actions.stacked {
 			-moz-flex-direction: column;
