@@ -2468,7 +2468,7 @@ input, select, textarea {
 			}
 
 			ul.actions.special li + li {
-				margin-right: 2em;
+				margin-right: 1em;
 			}
 		
 		ul.actions.stacked {
