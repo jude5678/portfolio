@@ -2004,8 +2004,12 @@ input, select, textarea {
 
 	#two img {
 
-		height: 10em;
+		height: 30em;
 		
+	}
+
+	.col-4 {
+		text-align: center;
 	}
 
 /* Section/Article */
