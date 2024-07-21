@@ -2005,16 +2005,16 @@ input, select, textarea {
 	#two img {
 
 		height: 30em;
-		
+		margin-right: 3em;
 	}
 
 	.col-4 {
 		text-align: center;
 	}
 
-	#two button {
+	#two .button {
 
-		margin-left: -5em;
+		margin-right: 3em;
 		
 	}
 
