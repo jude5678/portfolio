@@ -2003,6 +2003,11 @@ input, select, textarea {
 
 /* Section/Article */
 
+	#main-one {
+
+		margin-top: 3em;
+	}
+
 	section.special, article.special {
 		text-align: center;
 	}
