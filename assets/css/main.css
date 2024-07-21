@@ -2012,6 +2012,18 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	#two button {
+
+		margin-right: 2em;
+		
+	}
+
+	#two h3 {
+
+		padding-top: 2em;
+		
+	}
+
 /* Section/Article */
 
 	#main-one {
