@@ -2005,7 +2005,6 @@ input, select, textarea {
 	#two img {
 
 		height: 30em;
-		width: 30%;
 		
 	}
 
@@ -2015,7 +2014,7 @@ input, select, textarea {
 
 	#two button {
 
-		margin-right: 5em;
+		margin-left: -5em;
 		
 	}
 
