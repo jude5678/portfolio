@@ -2000,31 +2000,6 @@ input, select, textarea {
 						}
 
 		}
-/* two */
-
-	#two img {
-
-		height: 30em;
-		margin-left: -2em;
-	}
-
-	.col-4 {
-		text-align: center;
-		padding: 0 3em;
-		width: 30%;
-	}
-
-	#two .button {
-
-		margin-right: 2.5em;
-		
-	}
-
-	#two h3 {
-
-		padding-top: 1em;
-		
-	}
 
 /* Section/Article */
 
@@ -3139,6 +3114,32 @@ input, select, textarea {
 
 	body.is-preload #header:after {
 		opacity: 1;
+	}
+
+/* two */
+
+	#two img {
+
+		height: 30em;
+		margin-left: -2em;
+	}
+
+	.col-4 {
+		text-align: center;
+		padding: 0 3em;
+		width: 30%;
+	}
+
+	#two .button {
+
+		margin-right: 2.5em;
+		
+	}
+
+	#two h3 {
+
+		padding-top: 1em;
+		
 	}
 
 /* Footer */
