@@ -2013,6 +2013,12 @@ input, select, textarea {
 		width: 30%;
 	}
 
+	.row.gtr-150 {
+
+		text-align: center;
+		
+	}
+
 	#two .button {
 
 		margin-right: 2.5em;
