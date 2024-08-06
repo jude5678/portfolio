@@ -2016,7 +2016,7 @@ input, select, textarea {
 	.row.gtr-150 {
 
 		text-align: center;
-		width: 100%;
+		margin-left: -3em;
 		
 	}
 
