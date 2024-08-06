@@ -2010,13 +2010,13 @@ input, select, textarea {
 	.col-4 {
 		text-align: center;
 		width: 30%;
-		margin: 0 3em;
+		margin: 0 -3em;
 	}
 
 	.row.gtr-150 {
 
 		text-align: center;
-		margin-left: -3em;
+		
 		
 	}
 
