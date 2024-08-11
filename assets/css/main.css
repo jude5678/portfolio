@@ -2051,6 +2051,14 @@ input, select, textarea {
 		
 	}
 
+/* three */
+
+	#three ol li span {
+
+		font-weight: 700;
+		
+	}
+
 /* Section/Article */
 
 	#main-one {
