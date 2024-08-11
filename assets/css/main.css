@@ -2019,10 +2019,16 @@ input, select, textarea {
 
 	}
 
-	.project-2, .project-3 {
+	.project-2 {
 
 		margin-left: 8em;
 		
+		
+	}
+
+	.project-3 {
+
+		margin-left: 5em;
 		
 	}
 
