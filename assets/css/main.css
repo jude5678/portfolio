@@ -2005,7 +2005,7 @@ input, select, textarea {
 
 		height: 30em;
 		margin-left: -2em;
-		box-shadow: .5em -.5em .5em black;
+		box-shadow: .5em -.5em .5em rgba(26, 24, 24, 0.79);
 	}
 
 	.col-4 {
