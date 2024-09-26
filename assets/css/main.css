@@ -2014,7 +2014,8 @@ input, select, textarea {
 		
 	}
 
-	.col-4 h3 {
+	.col-4 h3,
+	.col-4 h3 < p {
 		
 		margin-left: 2em;
 		
