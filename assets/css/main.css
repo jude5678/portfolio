@@ -2020,7 +2020,8 @@ input, select, textarea {
 		
 	}
 
-	.col-4 p {
+	.col-4 p,
+	.col-4 li {
 
 		margin-left: 3em;
 
