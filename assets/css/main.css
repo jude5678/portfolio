@@ -2093,6 +2093,13 @@ input, select, textarea {
 		
 	}
 
+	#four img {
+
+		height: 10em;
+		margin-left: 10em;
+
+	}	
+
 /* five */
 
 	#five .container {
