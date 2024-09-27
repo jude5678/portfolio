@@ -2090,22 +2090,22 @@ input, select, textarea {
 	#four {
 
 		display: flex;
-		
+		justify-content: space-evenly;
 	}
 
 
 	#four .container {
 
 	
-		justify-content: space-evenly;
-		flex: 1 1 30%;
+		
+		flex: 1 30%;
 	}
 
 	#four img {
 
 		height: 200px;
-		justify-content: space-evenly;
-		flex: 1 1 30%;
+	
+		flex: 1 30%;
 	}	
 
 /* five */
