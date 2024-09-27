@@ -2097,16 +2097,15 @@ input, select, textarea {
 	#four .container {
 
 		text-align: start;
-		width: 50%
 		justify-content: space-evenly;
-		flex: 1;
+		flex: 40%;
 	}
 
 	#four img {
 
 		height: 200px;
 		justify-content: space-evenly;
-		flex: 1;
+		flex: 40%;
 	}	
 
 /* five */
