@@ -2090,7 +2090,7 @@ input, select, textarea {
 	#four {
 
 		display: flex;
-
+		justify-content: space-evenly;
 	}
 
 
@@ -2098,14 +2098,13 @@ input, select, textarea {
 
 		text-align: start;
 		width: 50%
-		justify-content: flex-start;
+		
 		flex: 1;
 	}
 
 	#four img {
 
 		height: 200px;
-		margin-left: 10em;
 		flex: 1;
 	}	
 
