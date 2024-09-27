@@ -2098,14 +2098,14 @@ input, select, textarea {
 
 	
 		
-		flex: 1 30%;
+		flex: 0 0 30%;
 	}
 
 	#four img {
 
 		height: 200px;
 	
-		flex: 1 30%;
+		flex: 0 0 30%;
 	}	
 
 /* five */
