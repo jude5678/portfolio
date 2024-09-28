@@ -2099,6 +2099,7 @@ input, select, textarea {
 	
 		
 		flex: 0 0 30%;
+		margin: 0;
 	}
 
 	#four img {
