@@ -2108,6 +2108,7 @@ input, select, textarea {
 		width: auto;
 		flex: 0 0 30%;
 		object-fit: contain;
+		box-shadow: .5em -.5em .5em rgba(26, 24, 24, 0.79);
 	}	
 
 /* five */
