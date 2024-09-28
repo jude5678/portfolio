@@ -2104,8 +2104,8 @@ input, select, textarea {
 
 	#four img {
 
-		height: 200px;
-	
+		height: 50em;
+		width: auto;
 		flex: 0 0 30%;
 	}	
 
